@@ -43,9 +43,9 @@ This application uses the following APIs:
 
 The weather data API endpoint:
 
-https://api.open-meteo.com/v1/forecast?latitude=<latitude>&longitude=<longitude>&hourly=temperature_2m,relativehumidity_2m,weathercode,windspeed_10m&timezone=America%2FLos_Angeles
+https://open-meteo.com/en/docs#latitude=33.767&longitude=-118.1892
 
 The geocoding API endpoint:
 
-https://geocoding-api.open-meteo.com/v1/search?name=<locationName>&count=10&language=en&format=json
+https://open-meteo.com/en/docs/geocoding-api
 
