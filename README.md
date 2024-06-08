@@ -47,4 +47,5 @@ https://api.open-meteo.com/v1/forecast?latitude=<latitude>&longitude=<longitude>
 
 The geocoding API endpoint:
 
-https://geocoding-api.open-meteo.com/v1/search?name=<locationName>&count=10&language=en&form
+https://geocoding-api.open-meteo.com/v1/search?name=<locationName>&count=10&language=en&format=json
+
